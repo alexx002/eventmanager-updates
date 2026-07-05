@@ -1,9 +1,9 @@
 {
   "app_name": "EventManagerPro",
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.1",
   "minimum_version": "1.0.0",
-  "download_url": "https://github.com/alexx002/eventmanager-updates/releases/download/v1.0.2/EventManagerPro-Setup-1.0.2.zip",
-  "sha256": "36294F902C352889003EBB4B04FA6F6C04CA5101D4784C8C3CAF21A1CB8B0C3F",
+  "download_url": "https://github.com/alexx002/eventmanager-updates/releases/download/v1.0.1/EventManagerPro-Setup-1.0.1.zip",
+  "sha256": "7E8369FC9335B33D7C75B185A6F0F0A97DAB00E3F7F28D063F619D08B8BD72D8",
   "release_notes": "Corrections de bugs et stabilité.",
   "mandatory": false
 }
