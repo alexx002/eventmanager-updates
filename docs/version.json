@@ -3,7 +3,7 @@
   "latest_version": "1.0.3",
   "minimum_version": "1.0.0",
   "download_url": "https://github.com/alexx002/eventmanager-updates/releases/download/v1.0.3/EventManagerPro-Setup-1.0.3.zip",
-  "sha256": "1BFB510D6A28BFEAF455404B02CB7E9A448ACDEF1852FCE5DDF86A8F2DA0B686",
+  "sha256": "F7AFE07FC4805F8080BE7ADCF0F9C4E72E6F3608B264D1BEBD508F33D5C47CAE",
   "release_notes": "Corrections de bugs et stabilité.",
   "mandatory": false
 }
